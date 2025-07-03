@@ -1,0 +1,26 @@
+[
+  {
+    "icon": "fas fa-robot",
+    "title": "WhatsApp AI Automation",
+    "description": "An intelligent bot that automates responses and tasks on WhatsApp using AI.",
+    "link": "#"
+  },
+  {
+    "icon": "fas fa-watch",
+    "title": "ESP8266 Smartwatch",
+    "description": "A custom-built smartwatch with IoT capabilities for notifications and tracking.",
+    "link": "#"
+  },
+  {
+    "icon": "fas fa-brain",
+    "title": "AI Assistant (Jarvis)",
+    "description": "A personal AI assistant inspired by Jarvis, capable of handling various commands.",
+    "link": "#"
+  },
+  {
+    "icon": "fas fa-gamepad",
+    "title": "Pac-Man 3D Unity Game",
+    "description": "A 3D remake of the classic Pac-Man game, developed using the Unity engine.",
+    "link": "#"
+  }
+]
